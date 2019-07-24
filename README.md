@@ -27,5 +27,11 @@
 
 **Discription:** 一个无拘无束的小点，自由的在坐标系里跑来跑去，每次跑的方向及距离完全取决于小点的心情。为了凸显小点的运动足迹，在坐标轴上绘制了小点运动的起点与终点，并且运动足迹会随运动距离逐渐加深，一幅充满艺术色彩的足迹图由此诞生。
 
+&nbsp;
+
+**Project Name:** [Frequency of Result](https://github.com/jc-LeeHub/Python-Learning/tree/master/Frequency%20of%20Result)
+
+**Discription:** 模拟两个六面骰子的投掷过程，生成掷骰子所得结果和的数据集，并将结果进行可视化，将分布规律更直观的展现出来。
+
 ***
 ## To be continued...
