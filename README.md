@@ -5,23 +5,27 @@
 ***
 
 ## Python Projects
-**Name:** [Drawing Board](https://github.com/jc-LeeHub/Python-Learning/tree/master/Drawing%20Board) 
+**Project Name:** [Drawing Board](https://github.com/jc-LeeHub/Python-Learning/tree/master/Drawing%20Board) 
 
 **Discription:** 一个简易的小画板，通过在鼠标位置填充小圆圈，模拟划线功能，功能简易，有待完善...
 
 &nbsp;
 
-**Name:** [Most-Starred Python Project](https://github.com/jc-LeeHub/Python-Learning/tree/master/Most-Starred%20Python%20Project) 
+**Project Name:** [Most-Starred Python Project](https://github.com/jc-LeeHub/Python-Learning/tree/master/Most-Starred%20Python%20Project) 
 
 **Discription:** 该程序在[GitHub](https://github.com/)上下载星级最高的python项目，并将获取的项目信息进行可视化，生成具有交互性的图表。鼠标处会出现项目描述提示，点击直方图会跳转到项目对应的GitHub页面。
 
 &nbsp;
 
-**Name:** [Alien Invasion](https://github.com/jc-LeeHub/Python-Learning/tree/master/Alien%20Invasion)
+**Project Name:** [Alien Invasion](https://github.com/jc-LeeHub/Python-Learning/tree/master/Alien%20Invasion)
 
-**Discription:** 《外星人入侵》游戏
+**Discription:** 《外星人入侵》游戏，整个游戏由多个Python文件组成，游戏基本功能完善，主要包括得分记录、生命值、飞船等级、游戏难度等设置。简易的小游戏，画面美感还有待改善。
 
 &nbsp;
+
+**Project Name:** [Random Walk](https://github.com/jc-LeeHub/Python-Learning/tree/master/Random%20Walk)
+
+**Discription:** 一个无拘无束的小点，自由的在坐标系里跑来跑去，每次跑的方向及距离完全取决于小点的心情。为了凸显小点的运动足迹，在坐标轴上绘制了小点运动的起点与终点，并且运动足迹会随运动距离逐渐加深，一幅充满艺术色彩的足迹图由此诞生。
 
 ***
 ## To be continued...
