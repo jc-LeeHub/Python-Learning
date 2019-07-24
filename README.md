@@ -17,9 +17,11 @@
 
 &nbsp;
 
-**Name:** [Alien Invasion]()
+**Name:** [Alien Invasion](https://github.com/jc-LeeHub/Python-Learning/tree/master/Alien%20Invasion)
 
-**Discription:** 还在努力中...
+**Discription:** 《外星人入侵》游戏
+
 &nbsp;
+
 ***
 ## To be continued...
