@@ -33,5 +33,13 @@
 
 **Discription:** 模拟两个六面骰子的投掷过程，生成掷骰子所得结果和的数据集，并将结果进行可视化，将分布规律更直观的展现出来。
 
+&nbsp;
+
+**Project Name:** [Weather](https://github.com/jc-LeeHub/Python-Learning/tree/master/Weather)
+
+**Discription:** 该程序对下载的死亡谷2014年天气数据文件（CSV格式）进行分析，读取其中每天的最高与最低气温，并将信息进行可视化，凸显温度变化规律。
+
+&nbsp;
+
 ***
 ## To be continued...
