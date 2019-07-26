@@ -41,5 +41,11 @@
 
 &nbsp;
 
+**Project Name:** [Tendency of Closing](https://github.com/jc-LeeHub/Python-Learning/tree/master/Tendency%20of%20Closing)
+
+**Discription:** 该程序对JSON格式的数据文件进行分析处理，读取其中的部分信息，并进行可视化，展现收盘价的变化趋势。
+
+&nbsp;
+
 ***
 ## To be continued...
